@@ -5,12 +5,8 @@
     "lerna": "^2.0.0"
   },
   "description": "",
-  "main": "index.js",
   "author": "Aman Mahajan <nova.aman@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "styled-components": "^2.1.1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/amanmahajan7/react-styled-components.git"
