@@ -8,7 +8,7 @@
   "devDependencies": {
     "lerna": "^2.0.0"
   },
-  "description": "",
+  "description": "Test",
   "author": "Aman Mahajan <nova.aman@gmail.com>",
   "license": "MIT",
   "repository": {
