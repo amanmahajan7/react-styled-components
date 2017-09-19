@@ -1,6 +1,6 @@
 {
   "name": "react-styled-components",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "main": "index.js",
   "author": "Aman Mahajan <nova.aman@gmail.com>",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "styled-components": "^2.1.1"
   },
   "scripts": {
-    "beforepublish": "node ../../test.js",
+    "beforepublish": "lerna exec --node ../../test.js",
     "postpublish": "node ../../test.js"
   }
 }

@@ -1,11 +1,11 @@
 {
   "name": "react-styled-components-examples",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "private": true,
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-styled-components": "^0.1.8"
+    "react-styled-components": "^0.1.10"
   },
   "devDependencies": {
     "react-scripts": "1.0.10"
