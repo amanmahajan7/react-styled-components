@@ -15,5 +15,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amanmahajan7/react-styled-components.git",
+    "directory": "packages/react-styled-components-examples"
   }
 }
