@@ -6,5 +6,10 @@
   "license": "MIT",
   "dependencies": {
     "styled-components": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amanmahajan7/react-styled-components.git",
+    "directory": "packages/react-styled-components"
   }
 }
